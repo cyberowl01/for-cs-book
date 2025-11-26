@@ -1,6 +1,2 @@
 ipykernel
-# pandas
-# joblib
-# matplotlib
-# numpy
-# geoip2
+pillow
